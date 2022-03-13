@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/Poliveira/Desktop/DEV/C++/tetris/build",
+  "command": "C:/TDM-GCC-64/bin/g++.exe  @CMakeFiles/tetris.dir/includes_CXX.rsp -g -o CMakeFiles/tetris.dir/src/main.cpp.obj -c C:/Users/Poliveira/Desktop/DEV/C++/tetris/src/main.cpp",
+  "file": "C:/Users/Poliveira/Desktop/DEV/C++/tetris/src/main.cpp"
+}
+]

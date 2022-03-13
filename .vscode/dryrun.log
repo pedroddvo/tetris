@@ -1,5 +1,6 @@
+make.exe --dry-run --always-make --keep-going --print-directory
 mingw32-make: Entering directory 'c:/Users/Poliveira/Desktop/DEV/C++/tetris'
-g++    -c -o src/main.o src/main.cpp
-g++ -Werror -Wall -std=c++2a -o tetris.exe src/main.o
 mingw32-make: Leaving directory 'c:/Users/Poliveira/Desktop/DEV/C++/tetris'
+ 
+mingw32-make: *** No targets specified and no makefile found.  Stop.
  
